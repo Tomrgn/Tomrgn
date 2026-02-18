@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-<!--
-**Tomrgn/Tomrgn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 French nurse with a Master's degree in Law (UT1 Capitole).  
 Currently preparing for the **EPSO AD5 Generalist competition** (2026 cycle) to join the European Commission — with a strong interest in **DG REFORM** and the Reform and Investment Task Force.
 
